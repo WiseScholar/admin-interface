@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
-    const API_BASE_URL = "http://13.60.52.56:5000"; // Change for deployment
+    const API_BASE_URL = "httpS://13.60.52.56:5000"; // Change for deployment
 
     const studentTableBody = document.getElementById("student-table-body");
     const totalStudents = document.getElementById("total-students");
